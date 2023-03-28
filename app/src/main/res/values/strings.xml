@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomDemoDB</string>
+    <string name="Copyright">Copyright 2023 | Cameron M Deans</string>
+    <string name="AddTxtBtn">Add Text</string>
+</resources>
